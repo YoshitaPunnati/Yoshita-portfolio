@@ -14,10 +14,11 @@ const About = () => {
           <div className="absolute top-0 right-0 w-64 h-64 bg-primary/5 rounded-full blur-3xl -z-10"></div>
           <CardContent className="p-6 md:p-10">
             <p className="text-lg leading-relaxed max-w-3xl">
-              A passionate Software Engineer with a strong foundation in backend systems, 
-              intelligent algorithms, and creative problem-solving. I build fast, efficient, 
-              and elegant systems with a focus on ML, security, and scalability. 
-              Always learning, always building.
+              I'm a dedicated Computer Science student with a passion for building innovative solutions 
+              that make a real impact. My expertise spans across machine learning, backend development, 
+              and data analysis. I thrive on solving complex problems and turning ideas into reality 
+              through clean, efficient code. Currently pursuing my B.Tech while gaining hands-on 
+              experience through internships and personal projects.
             </p>
 
             <div className="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
