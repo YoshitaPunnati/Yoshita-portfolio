@@ -22,13 +22,6 @@ const About = () => {
 
             <div className="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               <div className="space-y-2">
-                <h3 className="font-medium text-primary">Education</h3>
-                <p className="font-semibold">Jain University, Bangalore</p>
-                <p className="text-sm text-muted-foreground">B.Tech in Computer Science & Engineering (2022 – Present)</p>
-                <p className="text-sm">CGPA: <span className="font-semibold">9.13</span></p>
-              </div>
-
-              <div className="space-y-2">
                 <h3 className="font-medium text-primary">Contact</h3>
                 <p className="font-semibold">punnatiyoshita@gmail.com</p>
                 <p className="text-sm text-muted-foreground">+91 9705807572</p>
