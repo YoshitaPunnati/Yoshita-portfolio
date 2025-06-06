@@ -11,7 +11,11 @@ const Hero = () => {
         <div className="flex flex-col gap-12 md:flex-row md:items-center">
           <div className="flex-1 space-y-6 animate-fade-in">
             <div className="inline-block px-3 py-1 rounded-full bg-secondary text-sm font-medium text-primary mb-2">
-              <span className="flex items-center">
+              <img
+    src="/image.jpg"
+    alt="Yoshita Punnati"
+    className="w-full h-full object-cover"
+  />
                 <MapPin size={14} className="mr-1" /> Bangalore, India
               </span>
             </div>
