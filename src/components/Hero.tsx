@@ -2,6 +2,7 @@
 import React from 'react';
 import { ArrowRight, Download, MapPin } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import ChevronDown from '@/components/ChevronDown';
 
 const Hero = () => {
   return (
@@ -67,4 +68,3 @@ const Hero = () => {
 };
 
 export default Hero;
-
