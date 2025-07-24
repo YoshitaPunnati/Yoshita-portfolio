@@ -21,19 +21,25 @@ const Projects = () => {
       title: "Network Anomaly Detection",
       description: "Real-time threat detection with Isolation Forest, Autoencoders, DBSCAN, PyShark",
       tags: ["Python", "ML", "Security", "PyShark"],
-      githubUrl: "https://github.com/YoshitaPunnati",
+      githubUrl: "https://github.com/YoshitaPunnati/2-network-anomaly-detection",
     },
     {
       title: "Code-Based Steganography",
       description: "Secure data hiding in code without disrupting functionality",
       tags: ["Python", "Security", "Cryptography", "Steganography"],
-      githubUrl: "https://github.com/YoshitaPunnati",
+      githubUrl: "https://github.com/YoshitaPunnati/data-hiding-using-steganography,
     },
     {
       title: "AI Codebase Assistant",
       description: "A VS Code extension that uses LLaMA 3 (70B) via Groq to provide real-time, in-editor code explanations and deep understanding of large codebases",
       tags: ["TypeScript", "VSCode Extension", "Groq", "LLaMA 3", "Python"],
-      githubUrl: "https://github.com/YoshitaPunnati",
+      githubUrl: "https://github.com/YoshitaPunnati/AI-Codebase-Assistant",
+    },
+    {
+      title: "Eye Disease Classification",
+      description: "A deep learning project that uses CNNs to classify retinal images for early detection of eye diseases like diabetic retinopathy and glaucoma.",
+      tags: ["Python", "Deep Learning", "Computer Vision", "CNN", "Medical Imaging"],
+      githubUrl: "https://github.com/YoshitaPunnati/eye-disease-classification",
     },
     {
       title: "Crime Rate Prediction",
