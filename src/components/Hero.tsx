@@ -30,7 +30,7 @@ const Hero = () => {
 
             <div className="flex flex-wrap gap-4 pt-4">
               <Button asChild className="group">
-                <a href="Yoshita_Punnati.pdf" target="_blank">
+                <a href="Yoshita_P(main).pdf" target="_blank">
                   <Download size={18} className="mr-2" />
                   View Resume
                   <ArrowRight size={16} className="ml-1 transition-transform duration-300 group-hover:translate-x-1" />
