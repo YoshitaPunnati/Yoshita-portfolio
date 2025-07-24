@@ -13,11 +13,11 @@ const Skills = () => {
     },
     {
       title: "Development",
-      skills: ["Node.js"]
+      skills: ["Node.js", "React.js"]
     },
     {
       title: "Concepts",
-      skills: ["OOPs", "DBMS", "Data Structures", "Networks"]
+      skills: ["OOPs", "DBMS", "Data Structures", " Computer Networks"]
     },
     {
       title: "Operating Systems",
