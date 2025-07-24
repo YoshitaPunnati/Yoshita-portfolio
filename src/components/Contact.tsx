@@ -111,7 +111,7 @@ const Contact = () => {
 
                 <div className="mt-6 pt-6 border-t border-border">
                   <Button asChild variant="secondary" className="w-full">
-                    <a href="Yoshita_Punnati.pdf" target="_blank">
+                    <a href="Yoshita_P(main).pdf" target="_blank">
                       <Download className="mr-2 h-4 w-4" /> View Resume
                     </a>
                   </Button>
