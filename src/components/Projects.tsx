@@ -19,6 +19,12 @@ const Projects = () => {
       githubUrl: "https://github.com/YoshitaPunnati",
     },
     {
+      title: "AI Codebase Assistant",
+      description: " a VS Code extension that uses LLaMA 3 (70B) via Groq to provide real-time, in-editor code explanations and deep understanding of large codebases",
+      tags: ["TypeScript", "VSCode Extension", "Groq", "LLaMA 3", "Python"],
+      githubUrl: "https://github.com/YoshitaPunnati",
+    },
+    {
       title: "Crime Rate Prediction",
       description: "Spatial analytics to predict regional crime trends using data mining",
       tags: ["Python", "Data Mining", "ML", "Spatial Analytics"],
